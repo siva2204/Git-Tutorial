@@ -1,0 +1,48 @@
+diff --git a/addMe.txt b/addMe.txt
+index 0f4fbae..da54ba6 100644
+--- a/addMe.txt
++++ b/addMe.txt
+@@ -1,2 +1,3 @@
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper, eros eget sollicitudin ultrices, orci lacus efficitur tellus, at luctus ipsum massa ac magna. Integer id tincidunt dui, eu scelerisque enim. Sed tempus nibh sed sagittis suscipit. Sed eu faucibus tellus. Nulla facilisi. In nec diam vitae dui gravida gravida. Cras at dapibus nunc. Curabitur tristique diam a tortor tincidunt tempus. In rhoncus consectetur tempus.
+ 
++Donec ex metus, sagittis vel sem a, bibendum fermentum lacus. Proin posuere ex eu scelerisque ullamcorper. Nam ultricies nisl arcu, non venenatis neque viverra ut. Nam sit amet ipsum sem. Nunc ultrices lorem a suscipit luctus. Cras mollis arcu sed faucibus fermentum. Donec a molestie metus, eget euismod risus. Etiam placerat nec libero vel congue. Etiam semper, urna eu rhoncus luctus, nunc metus tincidunt est, quis egestas tellus tortor ut magna. Phasellus in tincidunt metus. Pellentesque a leo non turpis sodales hendrerit. Mauris placerat pulvinar magna pretium sollicitudin. Nunc tincidunt dui mauris, non scelerisque justo bibendum in. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec interdum leo eu odio posuere vulputate. Suspendisse nibh felis, aliquet pharetra accumsan sit amet, tincidunt vel diam.
+\ No newline at end of file
+diff --git a/status.txt b/status.txt
+index 5ba9bfe..2b90933 100644
+--- a/status.txt
++++ b/status.txt
+@@ -1,6 +1,12 @@
+:...skipping...
+diff --git a/addMe.txt b/addMe.txt
+index 0f4fbae..da54ba6 100644
+--- a/addMe.txt
++++ b/addMe.txt
+@@ -1,2 +1,3 @@
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper, eros eget sollicitudin ultrices, orci lacus efficitur tellus, at luctus ipsum massa ac magna. Integer id tincidunt dui, eu scelerisque enim. Sed tempus nibh sed sagittis suscipit. Sed eu faucibus tellus. Nulla facilisi. In nec diam vitae dui gravida gravida. Cras at dapibus nunc. Curabitur tristique diam a tortor tincidunt tempus. In rhoncus consectetur tempus.
+ 
++Donec ex metus, sagittis vel sem a, bibendum fermentum lacus. Proin posuere ex eu scelerisque ullamcorper. Nam ultricies nisl arcu, non venenatis neque viverra ut. Nam sit amet ipsum sem. Nunc ultrices lorem a suscipit luctus. Cras mollis arcu sed faucibus fermentum. Donec a molestie metus, eget euismod risus. Etiam placerat nec libero vel congue. Etiam semper, urna eu rhoncus luctus, nunc metus tincidunt est, quis egestas tellus tortor ut magna. Phasellus in tincidunt metus. Pellentesque a leo non turpis sodales hendrerit. Mauris placerat pulvinar magna pretium sollicitudin. Nunc tincidunt dui mauris, non scelerisque justo bibendum in. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec interdum leo eu odio posuere vulputate. Suspendisse nibh felis, aliquet pharetra accumsan sit amet, tincidunt vel diam.
+\ No newline at end of file
+diff --git a/status.txt b/status.txt
+index 5ba9bfe..2b90933 100644
+--- a/status.txt
++++ b/status.txt
+@@ -1,6 +1,12 @@
+ On branch add-commit
+ Your branch is up to date with 'origin/add-commit'.
+ 
++Untracked files:
++  (use "git add <file>..." to include in what will be committed)
++        addMe.txt
++On branch add-commit
++Your branch is up to date with 'origin/add-commit'.
++
+ Untracked files:
+   (use "git add <file>..." to include in what will be committed)
+         addMe.txt
+~
+~
+~
+~
+~
+~
+~
